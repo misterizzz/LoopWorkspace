@@ -41,7 +41,6 @@ jobs:
           omnipod_cage \
           limit_loop_cycle_time \
           now_line \
-          customtypeone_looppatches \
           2002 \
           algorithm_experiments \
           testflight_expiration_warning
